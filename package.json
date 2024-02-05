@@ -71,7 +71,7 @@
         "clean-webpack-plugin": "^4.0.0",
         "copy-webpack-plugin": "^11.0.0",
         "css-loader": "^6.7.4",
-        "css-minimizer-webpack-plugin": "^5.0.0",
+        "css-minimizer-webpack-plugin": "^6.0.0",
         "eslint": "^8.41.0",
         "eslint-config-prettier": "^9.0.0",
         "eslint-import-resolver-webpack": "^0.13.2",
