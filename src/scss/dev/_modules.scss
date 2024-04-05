@@ -2,17 +2,16 @@
 // StyleScape | Development | Modules
 // ============================================================================
 
-@use "../../../node_modules/unit.gl/scss/index.scss" as *;
-@use "../../../node_modules/hue.gl/scss/index.scss" as *;
-// @use "../../../node_modules/icon.gl/scss/index.scss" as *;
+@use '../../../../unit.gl/scss/index.scss' as *;
+@use '../../../../hue.gl/scss/index.scss' as *;
+// @use "../../../../icon.gl/scss/index.scss" as *;
 
-@forward "../../../node_modules/unit.gl/scss/index.scss";
-@forward "../../../node_modules/hue.gl/scss/index.scss";
-// @forward "../../../node_modules/icon.gl/scss/index.scss";
-
+@forward '../../../../unit.gl/scss/index.scss';
+@forward '../../../../hue.gl/scss/index.scss';
+// @forward "../../../../icon.gl/scss/index.scss";
 
 // @include icon_face(
-//     "../../../node_modules/icon.gl/font/icongl",
+//     "../../../../icon.gl/font/icongl",
 //     "icongl",
 //     "",
 //     //   600,
